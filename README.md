@@ -1,3 +1,3 @@
 # eclipse-tuning
 
-Eclipse Tuning on macOS.
+macOS eclipse tuning
